@@ -6,6 +6,7 @@ Run the program. On first launch, it will have you set the hotkey.
 Once you save the hotkey, just press this hotkey to play the last saved video recorded with ShadowPlay using the default media player for .mp4 files. 
   - If you want to change the hotkey, right click on the tray icon and click Configure. 
   - If you want to enable/disable this tool to Start with Windows, right click the tray icon and click Start with Windows.
+  - Running as administrator is not required, but may be needed if the hotkey is not being detected in certain games.
   
 This tool is similar in concept to [Overwolf Replay HUD](http://store.overwolf.com/app/Overwolf-Replay_HUD), except without all the bloat. If you don't have an Nvidia Graphics Card, give [Overwolf Replay HUD](http://store.overwolf.com/app/Overwolf-Replay_HUD) a try instead.
 
